@@ -1,5 +1,4 @@
 # StormPooper
-Porting rom or A510f
  
  Adb cmd
  
