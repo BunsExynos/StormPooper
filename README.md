@@ -12,3 +12,12 @@ sudo apt-get update && sudo apt-get install bc git-core gnupg flex bison gperf l
 #grep & sed
 
 grep -rl 'a' | xargs sed -i 's/a/c/g'
+
+
+#find
+
+find . -name "a"
+
+#disk usage
+
+du -sh *
